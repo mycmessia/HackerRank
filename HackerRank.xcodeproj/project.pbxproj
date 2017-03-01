@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		093819A01E6378680062DEA8 /* Pangrams.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 0938199F1E6378680062DEA8 /* Pangrams.cpp */; };
+		093819A21E677F730062DEA8 /* EqualizeTheArray.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 093819A11E677F730062DEA8 /* EqualizeTheArray.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -23,7 +23,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		0938199F1E6378680062DEA8 /* Pangrams.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = Pangrams.cpp; path = HackerRank/Algorithms/Pangrams.cpp; sourceTree = "<group>"; };
+		093819A11E677F730062DEA8 /* EqualizeTheArray.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = EqualizeTheArray.cpp; path = HackerRank/Algorithms/EqualizeTheArray.cpp; sourceTree = "<group>"; };
 		09C050281E3693B2004837F2 /* HackerRank */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = HackerRank; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
@@ -41,7 +41,7 @@
 		09C0501F1E3693B2004837F2 = {
 			isa = PBXGroup;
 			children = (
-				0938199F1E6378680062DEA8 /* Pangrams.cpp */,
+				093819A11E677F730062DEA8 /* EqualizeTheArray.cpp */,
 				09C050291E3693B2004837F2 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -110,7 +110,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				093819A01E6378680062DEA8 /* Pangrams.cpp in Sources */,
+				093819A21E677F730062DEA8 /* EqualizeTheArray.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
