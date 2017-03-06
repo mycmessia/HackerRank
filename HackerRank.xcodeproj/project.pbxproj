@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		093819A41E6785890062DEA8 /* MarsExploration.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 093819A31E6785890062DEA8 /* MarsExploration.cpp */; };
+		09FA88D91E6E17B30004B13F /* RepeatedString.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 09FA88D71E6E17B30004B13F /* RepeatedString.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -23,8 +23,8 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		093819A31E6785890062DEA8 /* MarsExploration.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = MarsExploration.cpp; path = HackerRank/Algorithms/MarsExploration.cpp; sourceTree = "<group>"; };
 		09C050281E3693B2004837F2 /* HackerRank */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = HackerRank; sourceTree = BUILT_PRODUCTS_DIR; };
+		09FA88D71E6E17B30004B13F /* RepeatedString.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = RepeatedString.cpp; path = HackerRank/Algorithms/RepeatedString.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -41,7 +41,7 @@
 		09C0501F1E3693B2004837F2 = {
 			isa = PBXGroup;
 			children = (
-				093819A31E6785890062DEA8 /* MarsExploration.cpp */,
+				09FA88D71E6E17B30004B13F /* RepeatedString.cpp */,
 				09C050291E3693B2004837F2 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -110,7 +110,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				093819A41E6785890062DEA8 /* MarsExploration.cpp in Sources */,
+				09FA88D91E6E17B30004B13F /* RepeatedString.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
