@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		0952DE361E955B9700CBB541 /* BreakingTheRecords.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 0952DE351E955B9700CBB541 /* BreakingTheRecords.cpp */; };
+		0952DE381E95619E00CBB541 /* CatsAndAMouse.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 0952DE371E95619E00CBB541 /* CatsAndAMouse.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -23,7 +23,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		0952DE351E955B9700CBB541 /* BreakingTheRecords.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = BreakingTheRecords.cpp; path = HackerRank/Algorithms/BreakingTheRecords.cpp; sourceTree = "<group>"; };
+		0952DE371E95619E00CBB541 /* CatsAndAMouse.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = CatsAndAMouse.cpp; path = HackerRank/Algorithms/CatsAndAMouse.cpp; sourceTree = "<group>"; };
 		09C050281E3693B2004837F2 /* HackerRank */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = HackerRank; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
@@ -41,7 +41,7 @@
 		09C0501F1E3693B2004837F2 = {
 			isa = PBXGroup;
 			children = (
-				0952DE351E955B9700CBB541 /* BreakingTheRecords.cpp */,
+				0952DE371E95619E00CBB541 /* CatsAndAMouse.cpp */,
 				09C050291E3693B2004837F2 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -110,7 +110,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				0952DE361E955B9700CBB541 /* BreakingTheRecords.cpp in Sources */,
+				0952DE381E95619E00CBB541 /* CatsAndAMouse.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
